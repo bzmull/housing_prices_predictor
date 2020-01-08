@@ -1,0 +1,17 @@
+Sikit Learn Flowchart:
+https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+XGBoost:
+https://arxiv.org/pdf/1603.02754.pdf
+
+Normalization:
+https://www.statisticshowto.datasciencecentral.com/normalized/
+
+Normalization vs Standardization:
+https://stats.stackexchange.com/questions/10289/whats-the-difference-between-normalization-and-standardization
+
+Practical AI Application Example:
+https://www.youtube.com/watch?v=3ht-ZyJOV2k
+
+Scikit Learn FAQs:
+https://scikit-learn.org/stable/faq.html
